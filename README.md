@@ -95,7 +95,7 @@ To integrate your analysis please, report the following information
 
 We will run the SZZ tool and refactoring miner 1.0.0 on your repository and integrate your data in a new release of the dataset. 
 
-**Automate the analysi pipeline**
+**Automate the analysis pipeline**
 We are also looking for contributors to automate the analysis pipeline. If you are interested to contribute, send us a message. 
 
 **Submit Issues and correct errors**
